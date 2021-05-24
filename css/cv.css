@@ -7,6 +7,11 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     vertical-align:baseline;
 }
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
 a:link, a:visited {
     color: #008ae6;
     text-decoration: none;
